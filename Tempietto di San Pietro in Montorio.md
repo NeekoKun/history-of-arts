@@ -1,0 +1,9 @@
+- Rifà ad opere classiche
+- Gradinata attorno
+- Solamente Naos
+- Colonne [[Tuscaniche]]
+- Fregi [[Dorici]]
+- Balcone con Balaustra
+- Tamburo con Cupola
+- Lanterna
+- Cripta Sottostante

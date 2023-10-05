@@ -1,0 +1,12 @@
+- Identità:
+	- Lisa Gherardini (Moglie di Francesco Bartolomeo)
+- Sfondo
+	- Linea dell'Orizzonte Sfalsata
+	- Paesaggio irreale e fantastico
+		- Né reale né immaginata
+		- Gioconda = Continuo della natura dello sfondo
+		- Corso di un fiume
+		- Ponte su 3 arcate
+		- Strada in Terra Rossa
+	- [[Prospettiva Aerea]]
+- 

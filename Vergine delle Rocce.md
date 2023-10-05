@@ -1,0 +1,13 @@
+- Personaggi
+	- Madonna
+		- Protegge Giovani Battista
+	- Angelo
+		- Coinvolge lo spettatore
+		- Indica Giovanni Battista
+	- San Giovanni Battista
+		- Prega verso Gesù
+	- Gesù
+- Sfondo
+	- Rocce realistiche
+	- Sfumate tramite [[Prospettiva Aerea]]
+- Incompiuta

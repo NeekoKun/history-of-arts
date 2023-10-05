@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "1d1c55a0f3e0f3f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cd3768c18876642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd7507746b322f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mona Lisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "980e98eb677a7753",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5b3b512ceba333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093d5c5f0210ce15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca02c05208efe5a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40c36f2b08f9891a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bf8965f8ec2c6de",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e6eeb7e74ade3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9407457c9d43ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mona Lisa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90234c12a46b6ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mona Lisa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12ce92c6c6cf52fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22701224d15a51fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mona Lisa.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1bd7507746b322f3",
+  "lastOpenFiles": [
+    "Leonardo da Vinci - Vita.md",
+    "Bramante.md",
+    "Leonardo da Vinci.md",
+    "Santa Maria di Milano.md",
+    "Mona Lisa.md",
+    "Cenacolo.md",
+    "Vergine delle Rocce.md",
+    "L'Annunciazione - Leonardo.md",
+    "Prospettiva Aerea.md",
+    "Tempietto di San Pietro in Montorio.md",
+    "Cristo alla Colonna.md"
+  ]
+}

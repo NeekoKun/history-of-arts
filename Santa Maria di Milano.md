@@ -1,0 +1,4 @@
+- Finto a coro all'abside
+- [[Croce a Tau]]
+- Cupola
+	- Decorazioni aiutano la Prospettiva
