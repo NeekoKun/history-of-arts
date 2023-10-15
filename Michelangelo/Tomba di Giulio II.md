@@ -1,0 +1,12 @@
+- Commissionata del 1505
+- Scolpita tra il 1533 - 1544
+- Spostata nella cattedrale di San Pietro in Vincoli
+- Struttura
+	- 1° Ordine:
+		- Anse e Mezzo Busti
+		- Personaggi:
+			- Mosè Centrale
+				- Vestito come un Condottiero Romano
+				- Corna
+					- Errore di Traduzione
+				- Contrapposto

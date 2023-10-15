@@ -1,0 +1,29 @@
+- Dipinta tra il 1507 - 1512
+- 400 mq
+- Primo affresco di Michelangelo e non si sente un Pittore
+- Accetta solo per il compenso in denaro
+- Licenzia gli aiuti
+	- Assume Settimanalmente per compiti semplici
+	- Teme gli rubino l'idea
+- Metodo:
+	- Dipinge a riquadri
+	- Utilizza la [[Sinopia]]
+		- Tutt'ora conservate al Museo di Pisa
+	- Utilizza i Cartoni
+	- Finge elementi architettonici per dividere i riquadri
+- Struttura:
+	- Pennacchi Angolari
+		- Miracoli al popolo degli Ebrei
+	- Vele
+		- Antenati di Cristo
+	- Arconi
+		- Profeti e Sibille
+	- Lunette
+		- Antenati di Cristo
+- Opere:
+	- [[Creazione di Adamo]]
+	- [[Sibille e Profeti]]
+	- [[Giudizio Universale - Cappella Sistina]]
+	- Opere Censurate
+		- Ignudi
+		- Santa Caterina

@@ -1,0 +1,10 @@
+- Scolpita tra il 1547 - 1555
+- A Firenze
+- Scultura non terminata
+- Personaggi:
+	- Nicodemo
+	- Maria Maddalena
+		- Eseguita Successivamente
+		- Non da Michelangelo
+	- Vergine Maria
+	- Cristo

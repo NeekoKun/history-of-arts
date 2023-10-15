@@ -1,0 +1,18 @@
+- Scolpito nel 1501
+- A Roma - Cattedrale di Santa Maria del Fiore
+- Marmo di Carrara alto 4.10 metri
+	- Già parzialmente abbozzato da [[Agostino di Duccio]]
+	- Come se avesse resuscitato un'uomo morto
+- Personaggio
+	- David - Futuro re d'Israele
+	- Rappresentato del momento di decisione di combattere Golia
+	- Rappresentato come un'eroe
+		- Scalzo
+		- Nudo
+	- Estremamente espressivo
+	- Testa Sproporzionata
+		- Pensato per la visione da terra
+		- Correzione Ottica
+- Viene considerata un'opera civile
+	- Spostato fuori dalla Cattedrale
+- Presenta un [[Chiasmo]]

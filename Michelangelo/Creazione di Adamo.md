@@ -1,0 +1,8 @@
+- Michelangelo reinterpreta le Sacre Scritture
+- 3 Linee di Forza
+- Contrapposizione dei Colori
+	- Dio - Caldo
+	- Adamo - Freddo
+- Mantello attorno a dio
+	- Risalta sullo Sfondo
+	- Mantello = Cervello?

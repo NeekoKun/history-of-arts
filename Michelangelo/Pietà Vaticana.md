@@ -1,0 +1,14 @@
+- Dipinta tra il 1498 - 1499
+- A Roma
+- Personaggi
+	- Vergine Maria
+		- Giovane e Bella
+		- Idealizzata, non realistica
+		- Sorregge Cristo Morto
+		- Ci incolpa con la mano sinistra
+	- Cristo
+		- Morto
+		- Da l'idea del peso
+		- Muscoli leggermente tesi
+			- A Michelangelo piacevano i maschioni muscolosi
+- Michelangelo rende perfettamente l'idea dei materiali

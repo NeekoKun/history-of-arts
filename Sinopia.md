@@ -1,0 +1,3 @@
+- Tecnica di affresco
+	- Disegno sull'arriccio
+	- Ricalco finale

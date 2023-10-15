@@ -1,0 +1,8 @@
+- Sibilla Rappresentata Muscolosa
+	- Ideale di bellezza di Michelangelo
+- Ignudi
+	- Rappresentano la bellezza divina per quanto sono esseri terreni
+- Sibilla Cumana
+	- Predice ai Pagani
+- Profeta
+	- Predice agli Ebrei

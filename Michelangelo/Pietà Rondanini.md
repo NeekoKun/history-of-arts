@@ -1,0 +1,6 @@
+- Scolpita tra il 1555 - 1564
+- A Milano
+- Michelangelo Muore prima di terminarla
+- 2 Personaggi
+	- Gesù
+	- Vergine Maria

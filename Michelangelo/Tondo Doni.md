@@ -1,0 +1,13 @@
+---
+aliases:
+  - Sacra Famiglia
+---
+- Dipinto nel 1504
+- A Firenze
+- Richiesta da **Angolo Doni**
+- Personaggi:
+	- Vergine Maria
+		- Contrapposto
+		- Colori Carnali -> Più famiglia che divino
+	- Giuseppe
+	- Gesù Bambino
