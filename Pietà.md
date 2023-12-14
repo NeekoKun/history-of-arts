@@ -1,0 +1,9 @@
+- Non completò mai per morte
+- 2 Statue
+	- Mosè
+	- Sibilla Ellespontica
+- Maddalena disperata
+- Maria calma e raccolta
+- Cristo accasciato
+- Nicodemo sorregge cristo
+- Angioletto con fiaccola

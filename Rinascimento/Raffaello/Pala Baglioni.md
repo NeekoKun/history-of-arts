@@ -1,0 +1,4 @@
+- Deposizione
+- Nicodemo sorregge cristo morto
+- Maria maddalena piange
+- Maria svenuta con le Pie Donne

@@ -1,0 +1,12 @@
+- Tempera a uovo e olio di noce su lino
+- Visione naturalistica
+- Tempo meteorologico come soggetto
+- Rappresenta Padova
+- 2 Figure
+	- Donna semisvestita che allatta a destra
+	- Uomo abbigliato secondo la moda a sinistra
+	- Interpretazioni:
+		- Adamo ed Eva
+- Colonna spezzata -> morte
+- Citta persa in lontananza -> Discesa dall'Eden
+- Fulmine -> Dio

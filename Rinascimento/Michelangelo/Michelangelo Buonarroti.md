@@ -8,3 +8,6 @@
 - [[Tomba di Giulio II]]
 - [[Tondo Doni]]
 - [[Cappella Sistina]]
+- [[Sagrestia Nuova]]
+- [[Piazza del Campidoglio]]
+- [[Basilica di San Pietro]]

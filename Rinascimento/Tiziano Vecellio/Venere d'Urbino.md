@@ -1,0 +1,5 @@
+- Simile ma differente rispetto alla [[Venere Dormiente]]
+	- Paesaggio al Chiuso
+	- Altri 2 personaggi (Fantesche)
+	- Cagnolino dormiente (Fedeltà coniugale)
+	- Comportamento diverso delle veneri

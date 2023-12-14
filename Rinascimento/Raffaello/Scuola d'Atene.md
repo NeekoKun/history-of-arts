@@ -1,0 +1,8 @@
+- Non veramente Atene
+	- Non avevano l'arco
+- Rappresenta il Vero, il Bene ed il Bello
+- Ritrae diversi artisti contemporanei nei filosofi
+	- Michelangelo aggiusto in fine
+- Al centro Aristotele e Platone
+- Diogene il Cinico
+- Eraclito = Michelangelo

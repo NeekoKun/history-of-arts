@@ -1,0 +1,7 @@
+- Inizialmente doveva ricordare una villa rustica romana
+- Ingresso a Forcipe
+- Loggia
+- Giardino all'Inglese
+- Peschiera
+- Finisce per essere più nello stile di una villa urbana
+- Mai terminata

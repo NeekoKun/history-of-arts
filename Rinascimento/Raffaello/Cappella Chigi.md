@@ -1,0 +1,4 @@
+- Imita lo stile classico
+- Raffaello prende ispirazione dal Pantheon
+	- Al posto dell'oculo, dipinge di blu
+- Utilizza la tecnica del Mosaico

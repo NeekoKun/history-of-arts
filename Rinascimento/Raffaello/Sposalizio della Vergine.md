@@ -1,0 +1,7 @@
+- Comparato al Dipinto del Maestro perugino
+	- Schema della Consegna delle Chiavi
+- Tempio a Base Ottagonale
+	- Più morbido alla vista
+- Figure in profondità
+- Tempio in scala
+- Architettura realistica

@@ -1,0 +1,7 @@
+- Madonna in trono
+- San Pietro
+- San Francesco
+- Sant'Antonio
+- Innovazioni compositive
+	- Madonna non più al centro
+- Nuvola con angioletti sopra san Pietro

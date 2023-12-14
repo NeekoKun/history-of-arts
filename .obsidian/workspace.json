@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33ffe0d62c661a3c",
+            "id": "723dc55fdc4aa8d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Michelangelo/Cappella Sistina.md",
+                "file": "Rinascimento/Giorgione/Giorgione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b2721dd10362fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Michelangelo/Cappella Sistina.md",
+                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Michelangelo/Cappella Sistina.md",
+                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Michelangelo/Cappella Sistina.md"
+                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md"
               }
             }
           }
@@ -133,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,38 +158,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ffe0d62c661a3c",
+  "active": "b5b2721dd10362fe",
   "lastOpenFiles": [
+    "Pietà.md",
+    "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
+    "Paolo III Farnese.md",
+    "Rinascimento/Tiziano Vecellio/Venere d'Urbino.md",
+    "Rinascimento/Tiziano Vecellio/Pala Pesaro.md",
+    "Rinascimento/Giorgione/Giorgione.md",
+    "Rinascimento/Giorgione/Venere Dormiente.md",
+    "Rinascimento/Giorgione/La Tempesta.md",
+    "Rinascimento/Giorgione/Pala di Castelfranco.md",
+    "README.md",
+    "Rinascimento/Raffaello/Villa Madama.md",
+    "Rinascimento/Raffaello/Cappella Chigi.md",
+    "Rinascimento/Michelangelo/Michelangelo Buonarroti.md",
+    "Rinascimento/Basilica di San Pietro.md",
+    "Rinascimento/Michelangelo/Sagrestia Nuova.md",
+    "Rinascimento/Michelangelo/Cappella Sistina.md",
+    "Rinascimento/Michelangelo/Giudizio Universale - Cappella Sistina.md",
+    "Rinascimento/Michelangelo/Creazione di Adamo.md",
     "Sinopia.md",
-    "Michelangelo/Tondo Doni.md",
-    "Michelangelo/Pietà Vaticana.md",
-    "Michelangelo/Pietà Rondanini.md",
-    "Michelangelo/Pietà Bandini.md",
-    "Vergine Maria.md",
+    "Rinascimento/Michelangelo/Tondo Doni.md",
+    "Rinascimento/Michelangelo/Tomba di Giulio II.md",
+    "Rinascimento/Michelangelo/David.md",
+    "Rinascimento/Michelangelo/Pietà Vaticana.md",
+    "Rinascimento/Michelangelo/Michelangelo - Vita.md",
+    "Rinascimento/Michelangelo/Pietà Rondanini.md",
+    "Rinascimento/Raffaello/Raffaello.md",
+    "Rinascimento",
+    "Rinascimento/Parmigianino",
+    "Rinascimento/Agnolo Bronzini",
+    "Rinascimento/Tiziano Vecellio",
+    "Rinascimento/Giorgione",
+    "Rinascimento/Raffaello",
     "Untitled.canvas",
-    "2023-10-15.md",
-    "Michelangelo/Michelangelo - Vita.md",
-    "Michelangelo/Michelangelo Buonarroti.md",
-    "Michelangelo/Cappella Sistina.md",
-    "Michelangelo/Sibille e Profeti.md",
-    "Michelangelo/Creazione di Adamo.md",
-    "Michelangelo/Giudizio Universale - Cappella Sistina.md",
-    "Michelangelo/Tomba di Giulio II.md",
-    "Michelangelo/David.md",
-    "Leonardo da Vinci/Vergine delle Rocce.md",
-    "Michelangelo",
+    "Rinascimento/Michelangelo",
     "Bramante/Untitled",
-    "Bramante",
-    "Leonardo da Vinci/Leonardo da Vinci - Vita.md",
-    "Bramante/Santa Maria di Milano.md",
-    "Bramante/Cristo alla Colonna.md",
-    "Leonardo da Vinci/Leonardo da Vinci.md",
-    "Leonardo da Vinci",
-    "Leonardo da Vinci/Mona Lisa.md",
-    "Bramante/Bramante.md",
-    "Leonardo da Vinci/Cenacolo.md",
-    "Leonardo da Vinci/L'Annunciazione - Leonardo.md",
-    "Leonardo da Vinci/Prospettiva Aerea.md",
-    "Bramante/Tempietto di San Pietro in Montorio.md"
+    "Rinascimento/Bramante",
+    "Rinascimento/Leonardo da Vinci"
   ]
 }

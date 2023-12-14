@@ -1,0 +1,11 @@
+- Tempera su Tavola
+- 2 Zone in orizzontale
+	- Zona prospettica e geometrica
+		- 3 Personaggi
+			- Vergine Maria
+			- Nicasio
+				- Armatura
+			- Francesco
+		- Tonalismo -> No linee
+	- Paesaggio naturale
+		- Prospettiva Dipinta

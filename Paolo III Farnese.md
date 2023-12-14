@@ -1,0 +1,10 @@
+- 2 Nipoti
+	- Alessandro
+	- Ottaviano
+- Prende spunto da [[Ritratto di Leone X]]
+- Paolo III Rimprovera Ottaviano
+- Ottaviano si scusa per finta
+- Alessandro segue i propri pensieri
+- Tecnica
+	- Poche pennellate e veloci
+	- Cerca l'abbozzo, lascia zone vuote

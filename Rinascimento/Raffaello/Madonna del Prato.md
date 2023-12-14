@@ -1,0 +1,5 @@
+- Composizione Piramidale
+- Maria regge il piccolo Gesù
+- San Giovannino porge una croce
+- Prospettiva Aerea
+- Paesaggio idealizzato e irrealistico

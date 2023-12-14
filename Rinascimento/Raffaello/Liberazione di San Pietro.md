@@ -1,0 +1,5 @@
+- Tripartizione
+- Lettura 3 1 2
+- Scena in controluce
+	- Angelo sorgente luminosa
+- Rappresenta una vittoria della chiesa per mano divina
