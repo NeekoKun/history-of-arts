@@ -1,0 +1,7 @@
+- Sono nudi ma non suscitano troppo scalpore:
+	- I personaggi sono coperti da Bernini stesso
+	- I personaggi sono rappresentati in eta' giovanile
+- Lavoro commissionato da un cardinale
+- Scolpito per essere interessante da ogni punto di vista
+- Utilizza sa matita per eseguire i dettagli degli occhi
+- Esegue un virtuosismo anche se rimane attinente ai canoni e alla regola

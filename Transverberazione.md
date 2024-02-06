@@ -1,0 +1,1 @@
+Figura santa (angelo / santo) trafigge il cuore di un fedele

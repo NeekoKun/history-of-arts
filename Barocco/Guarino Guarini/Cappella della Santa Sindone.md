@@ -1,0 +1,13 @@
+- Contiene il Sudario
+- Cupola
+	- Effetto illusorio di profondità
+		- Utilizza il traforo in pietra
+		- Tamponi in Vetro
+- Pianta
+	- Circolare/Triangolare
+	- Ingressi Decentrati
+	- Raccordo con Palazzo Ducale
+	- Lavora sul progetto di Castellamonte
+- Esterno
+	- Tambura + Lanterna
+	- Bicromia tipica moresca

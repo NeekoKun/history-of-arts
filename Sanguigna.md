@@ -1,0 +1,1 @@
+Un tipo di matita comune nel periodo rinascimentale, di colone rossastro

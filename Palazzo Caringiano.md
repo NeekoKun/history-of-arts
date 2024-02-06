@@ -1,0 +1,4 @@
+- Edificio Civile di Rappresentanza
+- Retta - Concavo - Convesso - Concavo - Retta
+- Finto avanporto
+- Colonne con bulge evidenti

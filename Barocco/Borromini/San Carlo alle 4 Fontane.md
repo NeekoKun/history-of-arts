@@ -1,0 +1,29 @@
+- Non sembra una chiesa
+- Facciata sinusoidale
+- Ordini
+	- 1'
+		- 2 nicchie
+			- monofora + statua
+		- Porta
+	- 2'
+		- Finestre
+	- 3'
+		- Balaustra
+- Spigolo smussato
+- Inserita in un convento preesistente
+- Pianta
+	- Chiostro
+		- Angoli smussati
+		- Colonne tuscaniche binate
+		- Convesse ad angolo
+		- Doppio ardine
+			- Secondo ordine retto
+	- Cupola
+		- Andamento sinusoidale
+		- Simile a St. Sofia
+			- Cupola sorretta da archi
+		- Cassettoni che danno profondità
+		- 4 Tondi simili ai clipei romani
+		- Oculo ellittico
+			- Angelo in un triangolo
+				- Simbolo di Trinità

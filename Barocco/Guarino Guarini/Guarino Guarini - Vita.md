@@ -1,0 +1,12 @@
+- 1624 - 1683
+- Era originalmente sacerdote
+- Lavora principalmente a Torino
+- Si trasferisce diverse volte
+	- Sicilia
+	- Portogallo
+	- Spagna
+	- Parigi
+- Opere
+	- [[Cappella della Santa Sindone]]
+	- [[Chiesa di San Lorenzo]]
+	- [[Palazzo Caringiano]]

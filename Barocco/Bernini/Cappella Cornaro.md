@@ -1,0 +1,8 @@
+- [[Transverberazione]]
+- 2 Palchetti Laterali
+	- 8 Membri della famiglia Cornaro
+- Raggi di bronzo dorato
+- Angelo Sorridente
+- Estasi espressa in modo erotico
+	- Per controbilanciare la violenza del gesto
+- Rivestimento in materiale "di Spoglio"

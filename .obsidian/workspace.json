@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "723dc55fdc4aa8d2",
+            "id": "d926394dd2df0126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rinascimento/Giorgione/Giorgione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5b2721dd10362fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
+                "file": "Palazzo Caringiano.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
+                "file": "Palazzo Caringiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
+                "file": "Palazzo Caringiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md"
+                "file": "Palazzo Caringiano.md"
               }
             }
           }
@@ -146,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5b2721dd10362fe",
+  "active": "d926394dd2df0126",
   "lastOpenFiles": [
-    "Pietà.md",
+    "Barocco/Guarino Guarini/Guarino Guarini - Vita.md",
+    "Palazzo Caringiano.md",
+    "Chiesa di San Lorenzo.md",
+    "Barocco/Guarino Guarini/Cappella della Santa Sindone.md",
+    "Controriforma/Storia.md",
+    "Barocco/Guarino Guarini",
+    "Barocco/Untitled.md",
+    "Transverberazione.md",
+    "Sanguigna.md",
+    "Barocco/Borromini/San Carlo alle 4 Fontane.md",
+    "Barocco/Borromini/Sant'Ivo alla Sapienza.md",
+    "Controriforma",
+    "Barocco/Borromini/Borromini - Vita.md",
+    "Barocco/Bernini/Apollo e Dafne.md",
+    "Barocco/Bernini/Bernini - Vita.md",
+    "Seppia.md",
+    "Barocco/Caravaggio/Caravaggio - Vita.md",
+    "Barocco/Bernini/Colonnato di Piazza San Pietro.md",
+    "Barocco/Borromini",
+    "Barocco/Bernini/Baldacchino di San Pietro.md",
+    "Rinascimento/Bramante/Tempietto di San Pietro in Montorio.md",
+    "Rinascimento/Bramante/Santa Maria di Milano.md",
+    "Rinascimento/Bramante/Cristo alla Colonna.md",
+    "Rinascimento/Bramante/Bramante.md",
+    "Barocco/Bernini/Cappella Cornaro.md",
+    "Barocco/Bernini/Ritratti in Marmo.md",
+    "Barocco/Bernini",
     "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
-    "Paolo III Farnese.md",
-    "Rinascimento/Tiziano Vecellio/Venere d'Urbino.md",
-    "Rinascimento/Tiziano Vecellio/Pala Pesaro.md",
-    "Rinascimento/Giorgione/Giorgione.md",
-    "Rinascimento/Giorgione/Venere Dormiente.md",
-    "Rinascimento/Giorgione/La Tempesta.md",
-    "Rinascimento/Giorgione/Pala di Castelfranco.md",
-    "README.md",
-    "Rinascimento/Raffaello/Villa Madama.md",
-    "Rinascimento/Raffaello/Cappella Chigi.md",
-    "Rinascimento/Michelangelo/Michelangelo Buonarroti.md",
-    "Rinascimento/Basilica di San Pietro.md",
-    "Rinascimento/Michelangelo/Sagrestia Nuova.md",
-    "Rinascimento/Michelangelo/Cappella Sistina.md",
-    "Rinascimento/Michelangelo/Giudizio Universale - Cappella Sistina.md",
-    "Rinascimento/Michelangelo/Creazione di Adamo.md",
-    "Sinopia.md",
-    "Rinascimento/Michelangelo/Tondo Doni.md",
-    "Rinascimento/Michelangelo/Tomba di Giulio II.md",
-    "Rinascimento/Michelangelo/David.md",
-    "Rinascimento/Michelangelo/Pietà Vaticana.md",
-    "Rinascimento/Michelangelo/Michelangelo - Vita.md",
-    "Rinascimento/Michelangelo/Pietà Rondanini.md",
-    "Rinascimento/Raffaello/Raffaello.md",
+    "Barocco/Caravaggio",
+    "Barocco",
+    "Rinascimento/Pietà.md",
+    "Rinascimento/Paolo III Farnese.md",
     "Rinascimento",
     "Rinascimento/Parmigianino",
     "Rinascimento/Agnolo Bronzini",
     "Rinascimento/Tiziano Vecellio",
-    "Rinascimento/Giorgione",
-    "Rinascimento/Raffaello",
-    "Untitled.canvas",
-    "Rinascimento/Michelangelo",
-    "Bramante/Untitled",
-    "Rinascimento/Bramante",
-    "Rinascimento/Leonardo da Vinci"
+    "Untitled.canvas"
   ]
 }

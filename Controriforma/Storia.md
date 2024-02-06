@@ -1,0 +1,44 @@
+- Riforma protestante avviata da Martin Lutero nel 1517
+	- Si oppone alla vendita delle indulgenze della chiesa per la costruzione di san Pietro
+	- ha origine il protestantesimo
+		- Negazione del ruolo del papa
+		- sacerdozio universale dei credenti
+		- la confessione non e' necessaria
+- Lutero scomunicato e istituzione del Concilio di Trento
+	- Tribunale della Santa Inquisizione
+	- Indice dei Libri Proibiti
+	- Indottrinamento massivo tramite Gesuiti
+	- Arte come strumento di propaganda
+		- L'Arte deve stupire e colpire l'osservatore sul piano emotivo ed esprimere la grandiosità della chiesa
+		- Ha origine il Barocco ('600 - '750)
+			- Concezione teatrale e dinamica dell'arte
+			- Si concentra nell'istruire e stupire i fedeli
+			- Si sviluppa in un periodo cupo
+				- Accanto a pitture cupe e nature morte
+		- Azioni repressive da parte del Tribunale
+			- Esecuzione pubblica di ***Giordane Bruno - 17 Febbraio 1600***
+			- Condanna del libro ***"De Revolutionibus Orbium Coelestium" di N. Copernico - 1616***
+			- Condanna di ***G. Galilei - 1632***
+		- diverse scoperte come la metafisica di Cartesio e legge di G
+- Guerra dei 30 anni
+	- Tra famiglia Asburgo (Spagna - Austria) e stati luterani (Boemia - Danimarca - Svezia)
+	- Diventa un conflitto per l'egemonia includente la Francia e termina con la pace di ***Westfalia***
+		- Germania frammentata in 300 staterelli
+- Post guerra carestie e peste del 1630
+- Nuovi generi espressivi
+	- Melodramma
+		- L'Euridice di J. Peri
+	- Teatro
+		- Attivi Calderon de la Barca e Moliere
+		- Nasce anche la scenografia
+- Daniele da Volterra
+	- "Il Braghettone"
+	- Ricopre i nudi del Giudizio Universale
+		- Compie un lavoro minimo e reversibile, al fine di non deturpare l'opera
+		- Vengono eliminate nel restauro del 1994, ne lasciano alcune a testimonianza
+	- Ricopre e Volta San Biagio e Santa Caterina
+		- lo sappiamo per il pittore Venusti
+	- Ricopre l'"Adamo ed Eva" di Masolino e Masaccio della cappella Brancacci
+		- Restaurata nel 1984
+- Ultima cena di Paolo Veronese diventa Cena a casa Levi
+- I dipinti del Caravaggio di San Matteo e l'Angelo e la Madonna rifiutate perche' non idealizzate 
