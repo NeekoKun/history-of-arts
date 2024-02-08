@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c92c0f38e41dc75",
+        "id": "3299d36a1e2687b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d926394dd2df0126",
+            "id": "22b4d06cb2d55b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Palazzo Caringiano.md",
+                "file": "Barocco/Bernini/Bernini - Vita.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palazzo Caringiano.md",
+                "file": "Barocco/Bernini/Bernini - Vita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palazzo Caringiano.md",
+                "file": "Barocco/Bernini/Bernini - Vita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Palazzo Caringiano.md"
+                "file": "Barocco/Bernini/Bernini - Vita.md"
               }
             }
           }
@@ -146,40 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d926394dd2df0126",
+  "active": "22b4d06cb2d55b39",
   "lastOpenFiles": [
+    "Barocco/Bernini/Cappella Cornaro.md",
+    "Barocco/Bernini/Colonnato di Piazza San Pietro.md",
+    "Barocco/Bernini/Bernini - Vita.md",
+    "Barocco/Bernini/Apollo e Dafne.md",
+    "Barocco/Borromini/Palazzo Spada.md",
+    "Barocco/Borromini/Borromini - Vita.md",
+    "Barocco/Borromini/Sant'Ivo alla Sapienza.md",
+    "Barocco/Borromini/San Carlo alle 4 Fontane.md",
     "Barocco/Guarino Guarini/Guarino Guarini - Vita.md",
-    "Palazzo Caringiano.md",
-    "Chiesa di San Lorenzo.md",
+    "Barocco/Guarino Guarini/Chiesa di San Lorenzo.md",
+    "Barocco/Bernini/Ritratti in Marmo.md",
+    "Barocco/Caravaggio/Caravaggio - Vita.md",
+    "Barocco/Caravaggio/Crocifissione di San Pietro.md",
+    "Barocco/Caravaggio/Morte della Madonna.md",
+    "Barocco/Caravaggio/San Matteo e l'Angelo.md",
+    "Barocco/Caravaggio/David con la Testa di Golia.md",
+    "Barocco/Caravaggio/Vocazione di San Matteo.md",
+    "Barocco/Caravaggio/Canestra di Frutta.md",
+    "Barocco/Caravaggio/Bacco.md",
+    "Barocco/Caravaggio/Testa di Medusa.md",
+    "Barocco/Guarino Guarini/Palazzo Caringiano.md",
     "Barocco/Guarino Guarini/Cappella della Santa Sindone.md",
     "Controriforma/Storia.md",
     "Barocco/Guarino Guarini",
     "Barocco/Untitled.md",
     "Transverberazione.md",
     "Sanguigna.md",
-    "Barocco/Borromini/San Carlo alle 4 Fontane.md",
-    "Barocco/Borromini/Sant'Ivo alla Sapienza.md",
     "Controriforma",
-    "Barocco/Borromini/Borromini - Vita.md",
-    "Barocco/Bernini/Apollo e Dafne.md",
-    "Barocco/Bernini/Bernini - Vita.md",
-    "Seppia.md",
-    "Barocco/Caravaggio/Caravaggio - Vita.md",
-    "Barocco/Bernini/Colonnato di Piazza San Pietro.md",
     "Barocco/Borromini",
-    "Barocco/Bernini/Baldacchino di San Pietro.md",
-    "Rinascimento/Bramante/Tempietto di San Pietro in Montorio.md",
-    "Rinascimento/Bramante/Santa Maria di Milano.md",
-    "Rinascimento/Bramante/Cristo alla Colonna.md",
-    "Rinascimento/Bramante/Bramante.md",
-    "Barocco/Bernini/Cappella Cornaro.md",
-    "Barocco/Bernini/Ritratti in Marmo.md",
     "Barocco/Bernini",
-    "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
     "Barocco/Caravaggio",
     "Barocco",
-    "Rinascimento/Pietà.md",
-    "Rinascimento/Paolo III Farnese.md",
     "Rinascimento",
     "Rinascimento/Parmigianino",
     "Rinascimento/Agnolo Bronzini",

@@ -17,3 +17,4 @@
 - Opere
 	- [[San Carlo alle 4 Fontane]]
 	- [[Sant'Ivo alla Sapienza]]
+	- [[Palazzo Spada]]

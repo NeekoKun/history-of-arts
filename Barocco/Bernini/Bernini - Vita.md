@@ -23,3 +23,6 @@
 
 # Opere
 - [[Apollo e Dafne]]
+- [[Baldacchino di San Pietro]]
+- [[Cappella Cornaro]]
+- [[Colonnato di Piazza San Pietro]]

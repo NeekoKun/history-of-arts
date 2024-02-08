@@ -20,3 +20,13 @@
 + Processo
 + Primo processo per diffamazione pubblica di un suo concorrente
 ```
+---
+## Opere
+- [[Testa di Medusa]]
+- [[Bacco]]
+- [[Canestra di Frutta]]
+- [[Vocazione di San Matteo]]
+- [[David con la Testa di Golia]]
+- [[San Matteo e l'Angelo]]
+- [[Morte della Madonna]]
+- [[Crocifissione di San Pietro]]
