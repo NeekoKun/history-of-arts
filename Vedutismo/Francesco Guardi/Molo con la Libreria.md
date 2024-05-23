@@ -1,0 +1,9 @@
+- [[Vedutismo/Francesco Guardi/Vita|Guardi]] si rifa' a [[Vedutismo/Canaletto/Vita|Canaletto]] ma si basa di più sella contrapposizione del colore
+- Atmosfera realistica
+	- Vento
+- Persone dipinte velocemente
+	- Quasi abbozzate
+	- senso di attività, vita sociale
+- Edifici lontani più definiti
+- Utilizza gradienti
+- Si basa meno sulle linee

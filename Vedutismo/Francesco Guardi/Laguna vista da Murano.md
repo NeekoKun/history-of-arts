@@ -1,0 +1,5 @@
+- Molto pittorico
+- Poco dettagliato ma più realistico
+- Forse non ha utilizzato la camera ottica
+- La luce fa intuire l'arrivo di maltempo imminente
+- Quasi moderno ed emotivo

@@ -1,0 +1,10 @@
+- Tiepolo decora la Volta Ribassata che sormonta la scalinata d'onore
+- Dipinge il [[Quadraturismo]] di Newman
+- Rappresentazione dei 4 continenti conosciuti
+- Collaborazione del principe vescovo
+- Elementi folkloristici
+	- Europa
+		- C'e, il committente
+		- Cultura, religione e tradizione migliore degli altri continenti
+	- Asia, Africa, America
+		- Interpretazione basata su racconti inaccurati

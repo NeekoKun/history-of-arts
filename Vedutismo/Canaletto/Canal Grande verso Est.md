@@ -1,0 +1,6 @@
+- Molto simile alla visione moderna
+- Veduta con clima idealizzato
+	- Cielo sereno e nuvole di bel tempo
+- Santa Moria alla Salute sullo sfondo del canale
+- 3 Copie del dipinto
+	- Madrid, Milano, ???

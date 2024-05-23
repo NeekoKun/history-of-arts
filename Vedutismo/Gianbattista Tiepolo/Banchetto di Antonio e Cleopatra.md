@@ -1,0 +1,9 @@
+- Incontro tra 2 culture
+- Esotismo forzato
+- Stile **Roccoco'**
+- Forzatura d'interpretazione
+- Osservatore escluso dalla scena
+	- Non coinvolge
+- Angeli musicali per moda dell'epoca
+- Scala corretta 
+- Scena teatrale

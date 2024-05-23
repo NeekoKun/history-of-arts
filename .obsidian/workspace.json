@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3299d36a1e2687b8",
+        "id": "43a9ac8ef0247d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "22b4d06cb2d55b39",
+            "id": "c9e19b30b4cdb281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barocco/Bernini/Bernini - Vita.md",
+                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barocco/Bernini/Bernini - Vita.md",
+                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barocco/Bernini/Bernini - Vita.md",
+                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barocco/Bernini/Bernini - Vita.md"
+                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md"
               }
             }
           }
@@ -146,11 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b4d06cb2d55b39",
+  "active": "c9e19b30b4cdb281",
   "lastOpenFiles": [
+    "Vedutismo/Francesco Guardi/Vita.md",
+    "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
+    "Vedutismo/Francesco Guardi/Molo con la Libreria.md",
+    "Vedutismo/Canaletto/Eton College.md",
+    "Vedutismo/Vedutismo.md",
+    "Vedutismo/Francesco Guardi",
+    "Vedutismo/Canaletto/Vita.md",
+    "Vedutismo/Gianbattista Tiepolo/Residenza di Wurzbug.md",
+    "Vedutismo/Canaletto/Canal Grande verso Est.md",
+    "Vedutismo/Canaletto",
+    "Vedutismo/Gianbattista Tiepolo/Vita.md",
+    "Vedutismo/Gianbattista Tiepolo/Banchetto di Antonio e Cleopatra.md",
+    "Vedutismo/Gianbattista Tiepolo/Affresco di Palazzo Labia.md",
+    "Barocco/Bernini/Bernini - Vita.md",
+    "Vedutismo/Quadraturismo.md",
+    "Vedutismo/Gianbattista Tiepolo",
+    "Vedutismo",
     "Barocco/Bernini/Cappella Cornaro.md",
     "Barocco/Bernini/Colonnato di Piazza San Pietro.md",
-    "Barocco/Bernini/Bernini - Vita.md",
     "Barocco/Bernini/Apollo e Dafne.md",
     "Barocco/Borromini/Palazzo Spada.md",
     "Barocco/Borromini/Borromini - Vita.md",
@@ -162,28 +178,12 @@
     "Barocco/Caravaggio/Caravaggio - Vita.md",
     "Barocco/Caravaggio/Crocifissione di San Pietro.md",
     "Barocco/Caravaggio/Morte della Madonna.md",
-    "Barocco/Caravaggio/San Matteo e l'Angelo.md",
-    "Barocco/Caravaggio/David con la Testa di Golia.md",
-    "Barocco/Caravaggio/Vocazione di San Matteo.md",
-    "Barocco/Caravaggio/Canestra di Frutta.md",
-    "Barocco/Caravaggio/Bacco.md",
-    "Barocco/Caravaggio/Testa di Medusa.md",
-    "Barocco/Guarino Guarini/Palazzo Caringiano.md",
-    "Barocco/Guarino Guarini/Cappella della Santa Sindone.md",
-    "Controriforma/Storia.md",
     "Barocco/Guarino Guarini",
-    "Barocco/Untitled.md",
-    "Transverberazione.md",
-    "Sanguigna.md",
     "Controriforma",
     "Barocco/Borromini",
     "Barocco/Bernini",
     "Barocco/Caravaggio",
     "Barocco",
-    "Rinascimento",
-    "Rinascimento/Parmigianino",
-    "Rinascimento/Agnolo Bronzini",
-    "Rinascimento/Tiziano Vecellio",
     "Untitled.canvas"
   ]
 }
