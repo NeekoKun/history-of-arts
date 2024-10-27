@@ -8,15 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9e19b30b4cdb281",
+            "id": "f1c20a5744df1906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
+                "file": "Neoclassicismo/Apoteosi di Omero.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Apoteosi di Omero"
             }
           }
         ]
@@ -39,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
+                "file": "Napoleone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Napoleone"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
+                "file": "Napoleone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Napoleone"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vedutismo/Francesco Guardi/Laguna vista da Murano.md"
-              }
+                "file": "Napoleone.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Napoleone"
             }
           }
         ]
@@ -146,44 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9e19b30b4cdb281",
+  "active": "f9678a7bab878dcd",
   "lastOpenFiles": [
-    "Vedutismo/Francesco Guardi/Vita.md",
+    "Neoclassicismo/La Grande Odalisca.md",
+    "Rinascimento/Tiziano Vecellio/Tiziano Vecellio.md",
+    "Neoclassicismo/Jean Auguste Dominique Ingres.md",
+    "Neoclassicismo/Apoteosi di Omero.md",
+    "Neoclassicismo/Giove e Teti.md",
+    "Neoclassicismo/Jacques-Louis David.md",
+    "Neoclassicismo/Bonaparte Valica le Alpi.md",
+    "Neoclassicismo/Neoclassicismo.md",
+    "Neoclassicismo/La Morte di Marat.md",
+    "Neoclassicismo/Le Sabine.md",
+    "Neoclassicismo/Giuramento degli Orazi.md",
+    "Neoclassicismo/Antonio Canova.md",
+    "Neoclassicismo/Johann Joachim Wickelmann.md",
+    "Neoclassicismo/Le 3 Grazie.md",
+    "Neoclassicismo/Napoleone.md",
+    "Neoclassicismo/Paolina Borghese come Venere Vincitrice.md",
+    "Neoclassicismo/Pugilatori.md",
+    "Neoclassicismo/Ebe.md",
+    "Neoclassicismo/Adone e Venere.md",
+    "Neoclassicismo/Amore e Psiche che si Abbracciano.md",
+    "Teseo ed il Minotauro.md",
+    "Transverberazione.md",
+    "Neoclassicismo",
+    "Seppia.md",
+    "Sanguigna.md",
     "Vedutismo/Francesco Guardi/Laguna vista da Murano.md",
-    "Vedutismo/Francesco Guardi/Molo con la Libreria.md",
-    "Vedutismo/Canaletto/Eton College.md",
-    "Vedutismo/Vedutismo.md",
+    "Vedutismo/Francesco Guardi/Vita.md",
     "Vedutismo/Francesco Guardi",
-    "Vedutismo/Canaletto/Vita.md",
-    "Vedutismo/Gianbattista Tiepolo/Residenza di Wurzbug.md",
-    "Vedutismo/Canaletto/Canal Grande verso Est.md",
     "Vedutismo/Canaletto",
-    "Vedutismo/Gianbattista Tiepolo/Vita.md",
-    "Vedutismo/Gianbattista Tiepolo/Banchetto di Antonio e Cleopatra.md",
-    "Vedutismo/Gianbattista Tiepolo/Affresco di Palazzo Labia.md",
-    "Barocco/Bernini/Bernini - Vita.md",
-    "Vedutismo/Quadraturismo.md",
     "Vedutismo/Gianbattista Tiepolo",
     "Vedutismo",
-    "Barocco/Bernini/Cappella Cornaro.md",
-    "Barocco/Bernini/Colonnato di Piazza San Pietro.md",
-    "Barocco/Bernini/Apollo e Dafne.md",
-    "Barocco/Borromini/Palazzo Spada.md",
-    "Barocco/Borromini/Borromini - Vita.md",
-    "Barocco/Borromini/Sant'Ivo alla Sapienza.md",
-    "Barocco/Borromini/San Carlo alle 4 Fontane.md",
-    "Barocco/Guarino Guarini/Guarino Guarini - Vita.md",
-    "Barocco/Guarino Guarini/Chiesa di San Lorenzo.md",
-    "Barocco/Bernini/Ritratti in Marmo.md",
-    "Barocco/Caravaggio/Caravaggio - Vita.md",
-    "Barocco/Caravaggio/Crocifissione di San Pietro.md",
-    "Barocco/Caravaggio/Morte della Madonna.md",
     "Barocco/Guarino Guarini",
     "Controriforma",
     "Barocco/Borromini",
     "Barocco/Bernini",
     "Barocco/Caravaggio",
-    "Barocco",
     "Untitled.canvas"
   ]
 }

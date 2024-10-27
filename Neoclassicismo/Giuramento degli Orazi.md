@@ -1,0 +1,21 @@
+- Prima opera che possiede tutte le caratteristiche di David
+- Storia
+	- Roma in guerra con Albalonga
+	- 3 Orazi contro 3 Curiazi
+		- Intrecci amorosi tra sorelle e mogli
+	- Vince un Orazio da solo
+	- Accusa la sorella di piangere la morte del nemico
+		- Accecato dal patriottismo
+		- La trafigge
+	- Donne -> Soffrono
+	- Figli -> Sacrificio, Coraggio
+	- Padre -> (???)
+- Wickelmann
+	- Nobile Contorno -> Opera leggibile
+		- Spade evidenziate dallo sfondo scuro
+	- Panneggio
+	- No emozioni -> Momento prima della battaglia
+	- Riferimento all'Antico -> Storia, Architettura
+- Riferimento alla Politica Contemporanea
+	- Sacrificio per l'Ideale
+	- Utilizzo corretto della prospettiva

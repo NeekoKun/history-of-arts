@@ -1,0 +1,9 @@
+- Passione per l'Antico
+	- Classici greci e romani
+- Internazionalismo della Cultura
+- Teorizzato da [[Johann Joachim Wickelmann]]
+- Scultori
+	- [[Antonio Canova]]
+- Pittori
+	- [[Jacques-Louis David]]
+	- [[Jean Auguste Dominique Ingres]]

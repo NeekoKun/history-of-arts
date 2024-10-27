@@ -1,0 +1,12 @@
+- Tazio contro Romolo
+	- Le Sabine intervengono con i figli per interrompere lo scontro
+- Simbologie
+	- Eroi nudi e scalzi
+	- Schieramenti divisi dalle donne e dai bambini
+		- Mescolamento dei due popoli
+- Wickelmann
+	- Nobile Contorno
+	- Panneggio
+	- Azione bloccata
+- Ideologia contemporanea
+	- Se le nazioni non si combattessero potrebbero avere un futuro migliore

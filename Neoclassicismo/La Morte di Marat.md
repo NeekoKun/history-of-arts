@@ -1,0 +1,21 @@
+- Opera senza committente
+	- Omaggio all'amico
+- Storia
+	- Pugnalato nella vasca da bagno da Charlotte Corday
+		- Nemica politica di Marat
+- Ambientazione spoglia
+- Idealizzazione della morte
+	- Sembra dormiente
+	- Si realizza solo da ferita e coltello
+	- Non sembra ci sia stata alcuna lotta
+- Scriveva una lettera di ricevimento a Corday
+- Wickelmann
+	- Nobile Contorno -> Sfondo spoglio e tratto netto
+	- Panneggio
+	- Scena statica -> Dopo l'azione
+	- Nessun richiamo all'Antico
+		- Non avrebbe senso
+		- Racconta un fatto di cronaca
+- Quest'opera rende [[Jacques-Louis David]] famoso
+	- Ne crea diverse copie
+		- Che ne aumentano il valore
