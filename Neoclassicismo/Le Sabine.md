@@ -7,6 +7,9 @@
 - Wickelmann
 	- Nobile Contorno
 	- Panneggio
-	- Azione bloccata
+	- Quieta Grandezza -> Azione bloccata
+	- Riferimento all'Antico -> Lore
 - Ideologia contemporanea
 	- Se le nazioni non si combattessero potrebbero avere un futuro migliore
+
+![[sabine.jpg]]

@@ -1,0 +1,12 @@
+- Goya ripudia la guerra in quanto tale
+	- Rappresenta accusatoriamente
+- Contadini fucilati per aver osteggiato l'ingresso delle truppe
+	- Accusati di aver compiuto una scelta politica
+	- Esecuzione sommaria senza process
+		- I contadini non sono consapevoli
+- Dipinto Documentato
+	- Datato
+- Morte non idealizzata
+	- idea di **massacro**
+- Proporzioni in secondo piano
+- Luce artificiale

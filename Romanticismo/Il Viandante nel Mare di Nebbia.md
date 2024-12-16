@@ -1,0 +1,2 @@
+- Idea di sforzo per godersi il panorama
+- Identità appositamente vaga del viandante

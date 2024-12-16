@@ -1,2 +1,6 @@
 - 1717-1768
-- 
+- Teorie
+	- Imitazione del Classi
+	- Nobile Contorno
+	- Panneggio
+	- Quieta Grandezza

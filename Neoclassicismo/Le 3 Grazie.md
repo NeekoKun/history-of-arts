@@ -4,3 +4,5 @@
 - Uso domestico
 - Nobile Contorno definito
 - 2 Copie
+
+![[tre_grazie.jpg]]

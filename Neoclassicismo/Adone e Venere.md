@@ -5,3 +5,5 @@
 - Cane
 	- Mito di Adone e Venere
 	- Simbologia della Fedeltà
+
+![[adone_e_venere.jpg]]

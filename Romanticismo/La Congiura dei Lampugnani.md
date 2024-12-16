@@ -1,0 +1,5 @@
+- Si rifà al periodo rinascimentale
+- Quadro storico che allude a condizioni attuali
+- Potrebbe essere [[Neoclassicismo|Neoclassico]]
+	- Ma manca l'eroismo
+- Viene rappresentata la paura

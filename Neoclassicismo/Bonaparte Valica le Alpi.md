@@ -11,3 +11,5 @@
 	- Idealizzato
 - Simbologia
 	- Vento della Vittoria aiuto Napoleone nella sua impresa (???)
+
+![[bonaparte_valica_le_alpi.jpg]]

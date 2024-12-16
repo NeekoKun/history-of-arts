@@ -1,0 +1,7 @@
+- Si rifà all'ultimo addio di Romeo e Giulietta
+- Ambientazione medioevale
+- Alleanza tra Francia ed Italia per sconfiggere l'Austria
+	- Non deve essere scoperta
+- 2 tricolori
+- 3 versioni
+	- Ultima personale

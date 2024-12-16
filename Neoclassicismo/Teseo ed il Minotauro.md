@@ -5,3 +5,5 @@
 	- Leggibile da ogni punto di vista
 - Riferimento alle metope partenopee
 	- Vittoria della ragione sulla bestialità
+
+![[teseo_ed_il_minotauro.jpg]]

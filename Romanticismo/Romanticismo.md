@@ -1,0 +1,34 @@
+## Principi di Fondo
+- Genio
+	- Possedente di ==Abilità Innate==
+- Sentimento
+	- Permette la Conoscenza
+	- La ragione viene in seconda parte
+- Vocazione Artistica
+	- Artisti per se stessi
+- Tormento Interiore
+	- La creatività deriva dal dolore interno
+- Arte
+	- Un mistero che ci porta Dio
+- Irrazionalità
+	- Attrazione verso qualcosa di inspiegabile
+- Rapporto con la Natura
+	- Fine dell'Antropocentrismo
+	- La Natura è non curante dell'uomo
+		- Non è una natura matrigna
+	- L'uomo è insignificante
+- Pittoresco
+	- Rappresenta una natura semplice inserita in un contesto tipico
+	- Indica un rapporto simbiotico tra Uomo e Natura
+- Rapporto con la Storia
+	- L'Artista è *Figlio del proprio Tempo*
+		- Si interessano al Medioevo perché generatore di Radici
+
+## Artisti
+- [[Friedrich]]
+- [[Goya]]
+- [[William Turner]]
+- [[Constable]]
+- [[Delacroix]]
+- [[Gericault]]
+- [[Hayez]]

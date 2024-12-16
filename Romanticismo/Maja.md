@@ -1,0 +1,6 @@
+- La donna è o l'amante o la **Duchessa d'Alba**
+- Corpo non Idealizzato
+- Nudità esplicita
+- Sguardo provocatorio
+- Nudo non legato alla mitologia
+	- Perseguibile

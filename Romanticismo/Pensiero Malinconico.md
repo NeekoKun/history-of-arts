@@ -1,0 +1,3 @@
+- Natura morta nei fiori
+- Bellezza che svanisce nel tempo
+- Fanciulla inserita in un'ambientazione Signorile

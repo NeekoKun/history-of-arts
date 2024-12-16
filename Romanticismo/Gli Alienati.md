@@ -1,0 +1,2 @@
+- Malati mentali **monomaniaci**
+- Il soggetto è il disturbo della persona più che la persona stessa

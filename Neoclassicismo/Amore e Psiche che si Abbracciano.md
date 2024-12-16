@@ -8,4 +8,5 @@
 - Nobile Contorno -> Opera definita
 - Drappeggio
 - Richiamo all'Antico -> Mito greco
-- 
+
+![[amore_e_psiche.jpg]]

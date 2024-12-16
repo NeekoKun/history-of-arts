@@ -1,0 +1,7 @@
+- Riferito alle pareti della propria casa
+	- Dipinto tutte le pareti di nero
+	- Goya è sordo e disperato
+		- Disgustato dalla Società che lo circonda
+- Dipinge saturno che mangia i suoi figli
+	- Ferocia e Dolore
+- Dipinti strappati dalle pareti e riportati su tela

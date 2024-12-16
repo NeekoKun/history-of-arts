@@ -1,0 +1,4 @@
+- Natura violenta
+	- Dipinto dinamico
+- Pennellate veloci e luce dallo la tridimensionalità
+- Dipinto ad Acquerello

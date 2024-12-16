@@ -1,0 +1,14 @@
+- 7m x 5m
+- Molte polemiche sull'accaduto
+	- Solo 15 sulla zattera dei 150
+		- Cannibalismo per sopravvivere
+	- [[Gericault]] decide che questo fatto deve avere la stessa importanza di un fatto storico
+	- Pubblicato al Salon
+- Componimento bipiramidale
+	- Divide il quadro in 2 emozioni
+		- I Morti e Disperati
+		- Quelli che nutrono speranza
+- Corpi michelangioleschi
+- Luce e morte caravaggesca
+- Presenza del sublime
+- Quadro esposto al Louvre

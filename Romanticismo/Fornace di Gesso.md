@@ -1,0 +1,3 @@
+- Raffigura la produzione del gesso
+- Quadro ambientalista
+	- Uomo criticato per inquinare

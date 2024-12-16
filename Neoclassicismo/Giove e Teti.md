@@ -11,3 +11,5 @@
 	- Nobile Contorno ->  Le ombre aiutano nel risalto tra parti di simili sfumature
 	- Panneggio
 	- Scena priva di emozioni
+
+![[giove_e_teti.jpg]]

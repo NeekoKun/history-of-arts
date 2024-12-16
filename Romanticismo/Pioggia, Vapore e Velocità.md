@@ -1,0 +1,2 @@
+- Raffigura la Tecnologia
+- Il soggetto non è il treno ma l'intero ambiente

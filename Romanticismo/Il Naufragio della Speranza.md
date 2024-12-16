@@ -1,0 +1,2 @@
+- Rappresentazione dell'Uomo sopraffatto dalla natura
+	- Quadro silenzioso dove la natura si *riprende* il suo spazio

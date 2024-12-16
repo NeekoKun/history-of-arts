@@ -4,3 +4,5 @@
 - Panneggio
 - Uso della Foglia d'oro
 - 4 Copie
+
+![[ebe.jpg]]

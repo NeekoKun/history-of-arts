@@ -11,7 +11,7 @@
 - Ispirazione Romana
 - Tendenze manieriste
 - Si basa sulla teoria di [[Johann Joachim Wickelmann]]
-	- Nobile Contorno -> Sfondo scuro
+	- Nobile Contorno -> Marmo rifinito
 	- Panneggio -> Il movimento del vestito rivela ciò che vi e' sotto
 	- Bella natura -> Non rappresenta emozioni forti
 	- Richiamo all'antico

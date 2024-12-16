@@ -1,0 +1,4 @@
+- Raffigurazioni di ciò che Goya osserva nei campi di guerra
+	- Esecuzioni
+	- Disperazione
+	- Cadaveri attaccati agli alberi

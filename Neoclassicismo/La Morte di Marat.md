@@ -19,3 +19,5 @@
 - Quest'opera rende [[Jacques-Louis David]] famoso
 	- Ne crea diverse copie
 		- Che ne aumentano il valore
+
+![[morte_di_marat.jpg]]

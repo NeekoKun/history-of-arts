@@ -14,8 +14,10 @@
 	- Nobile Contorno -> Opera leggibile
 		- Spade evidenziate dallo sfondo scuro
 	- Panneggio
-	- No emozioni -> Momento prima della battaglia
+	- Quiete -> Momento prima della battaglia
 	- Riferimento all'Antico -> Storia, Architettura
 - Riferimento alla Politica Contemporanea
 	- Sacrificio per l'Ideale
 	- Utilizzo corretto della prospettiva
+
+![[giuramento_degli_orazi.jpg]]

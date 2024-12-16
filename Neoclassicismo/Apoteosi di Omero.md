@@ -9,3 +9,5 @@
 	- Dante accompagnato da Virgilio a meta'
 	- Raffaello e Michelangelo
 	- Ognuno offre il suo *magnum opus*
+
+![[apoteosi_di_omero.jpg]]

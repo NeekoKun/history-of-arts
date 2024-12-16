@@ -1,0 +1,6 @@
+- Rende [[Constable]] famoso
+	- Viene esposto a Parigi
+		- Medaglia d'Oro per la sua fama
+- Adorato dagli impressionisti
+	- Rimangono affascinati dall'uso della luce
+- Luce che passa tra le nuvole da spazialità

@@ -1,0 +1,7 @@
+- Girone degli Iracondi, Immersi in una Palude
+- Raffigurazione di un evento letterario per loro moderno
+	- Da poco riscoperto
+- Il nocchiere
+	- Tratto dal torso del Belvedere
+		- Non citazione classica ma contemporanea
+- Riferimenti anatomici a [[Michelangelo - Vita|Michelangelo]]

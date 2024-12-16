@@ -1,0 +1,2 @@
+- Concentrato sulla piccolezza dell'uomo di fronte alla natura
+- solo 3 colori
