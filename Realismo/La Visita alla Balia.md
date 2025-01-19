@@ -1,0 +1,1 @@
+![[La Visita alla Balia.png]]
