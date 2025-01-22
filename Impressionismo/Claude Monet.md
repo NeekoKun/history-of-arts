@@ -1,0 +1,23 @@
+- Comincia producendo caricature da studente
+- Compie ==produzione seriale==
+	- Quadri dipinti non copiando ma in serie di simili
+	- Fine scientifico
+		- Dimostra che i colori variano alle Condizioni al Contorno
+- Benestante di famiglia
+- Soffre di problemi di salute
+- Si trasferisce a Giverny
+	- Restaura una vecchia casa
+	- Si fa costruire un giardino giapponese
+
+## Opere
+- [[Tuileries]]
+- [[La Colazione sull'Erba]]
+- [[Impressione di un'Alba]]
+- La Passeggiata
+	- [[La Passeggiata (1)]]
+	- [[La Passeggiata (2)]]
+- [[Il Bar di Folies-Bergère]]
+- Covoni di Fieno
+	- [[Mucchi di Fieno]]
+	- [[I Covoni, effetto di gelata bianca]]
+	- [[Covone al Sole]]

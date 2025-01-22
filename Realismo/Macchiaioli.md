@@ -14,4 +14,3 @@
 - [[Fattori Giovanni]]
 - [[Silvestro Lega]]
 - [[Telemaco Signorini]]
-- 

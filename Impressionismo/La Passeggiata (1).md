@@ -1,0 +1,6 @@
+- Rappresenta la Moglie di Monet
+- Il Bianco non è Bianco
+- Ombre colorate
+	- Non monocrome
+- Pittura all'aperto
+	- Pittura rapida, colpi di pennello piatto

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impressionismo/Impressionismo.md",
+                "file": "Impressionismo/Mucchi di Fieno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impressionismo"
+              "title": "Mucchi di Fieno"
+            }
+          },
+          {
+            "id": "d7e6d35362ba8756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realismo/Macchiaioli.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macchiaioli"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,46 +177,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e2f0f1b262e314e",
+  "active": "d7e6d35362ba8756",
   "lastOpenFiles": [
-    "Realismo/Silvestro Lega.md",
-    "Realismo/La Visita alla Balia.png",
-    "Realismo/La Visita alla Balia.md",
-    "Realismo/Campo Italiano dopo la Battaglia di Magenta.md",
-    "Realismo/Fattori Giovanni.md",
     "Realismo/Macchiaioli.md",
     "Realismo/Realismo.md",
-    "Realismo/Sala delle Agitate.png",
-    "Realismo/L'Alzaia.png",
-    "Realismo/Il Pergolato.png",
-    "Realismo/Il Canto dello Stornello.png",
-    "Realismo/Rotonda dei Bagni Palmieri.png",
-    "Realismo/In Vedetta.png",
-    "Realismo/Campo Italiano dopo la Battaglia di Magenta.png",
+    "Realismo/Gustave Courbet.md",
+    "Realismo/Funerale Ornans.md",
+    "Impressionismo/Impressionismo.md",
+    "Impressionismo/Tuileries.md",
+    "Impressionismo/Mucchi di Fieno.md",
+    "Impressionismo/La Passeggiata (2).png",
+    "Impressionismo/Claude Monet.md",
+    "Impressionismo/Il Bar di Folies-Bergère.md",
+    "Impressionismo/Il Bar di Folies-Bergère.png",
+    "Impressionismo/Impressione di un'Alba.png",
+    "Impressionismo/La Colazione sull'Erba.md",
+    "Impressionismo/Impressione di un'Alba.md",
+    "Impressionismo/La Colazione sull'Erba.png",
+    "Impressionismo/La Passeggiata (1).md",
+    "Impressionismo/La Passeggiata (2).md",
+    "Impressionismo/Tuileries.png",
+    "Realismo/Campo Italiano dopo la Battaglia di Magenta.md",
+    "Realismo/Silvestro Lega.md",
+    "Realismo/Telemaco Signorini.md",
     "Realismo/Funerale Ornans.png",
     "Realismo/Gli Spaccapietre.png",
-    "Impressionismo/Impressionismo.md",
+    "Realismo/La Visita alla Balia.png",
+    "Realismo/La Visita alla Balia.md",
+    "Realismo/Fattori Giovanni.md",
+    "Realismo/Sala delle Agitate.png",
+    "Realismo/L'Alzaia.png",
     "Impressionismo",
     "Realismo/Sala delle Agitate.md",
-    "Realismo/Telemaco Signorini.md",
     "Realismo/L'Alzaia.md",
     "Realismo/Il Pergolato.md",
     "Realismo/Il Canto dello Stornello.md",
     "Realismo/Rotonda dei Bagni Palmieri.md",
     "Realismo/In Vedetta.md",
-    "Realismo/Funerale Ornans.md",
     "Macchiaioli",
     "Realismo/Gli Spaccapietre.md",
-    "Realismo/Gustave Courbet.md",
-    "Romanticismo/Il Bacio.md",
     "Realismo",
-    "Romanticismo/William Turner.md",
-    "Romanticismo/Carro da Fieno.md",
-    "Romanticismo/Hayez.md",
-    "Romanticismo/Pensiero Malinconico.md",
-    "Romanticismo/La Congiura dei Lampugnani.md",
-    "Romanticismo/Romanticismo.md",
-    "Romanticismo/Gericault.md",
     "Romanticismo",
     "Neoclassicismo/la_grande_odalisca.0.jpg.aria2",
     "Neoclassicismo/bonaparte_valica_le_alpi.0.jpg.aria2",

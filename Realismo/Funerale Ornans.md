@@ -6,4 +6,5 @@
 - Il **paesaggio** ha solo scopo contestualizzante
 - Realtà molto quotidiana
 	- Come se riprendesse un momento
+
 ![[Funerale Ornans.png]]

@@ -1,4 +1,4 @@
-- Acontenutistico
+ - Acontenutistico
 	- Non vuole esprimere alcun messaggio
 - Quadri esposti nel "Salon dei Rifiutati"
 	- Diventano comunque famosi
@@ -27,3 +27,14 @@
 		- Successivamente commercializzate nei mercatini francesi
 	- Nasce il giapponesismo
 	- No prospettiva e colori piatti
+
+## Storia
+- 1864 - 1886
+	- Considerato l'avanguardia storica
+	- Dura poco in quanto semplice **studio scientifico**
+	- Chiamata "*Stagione Impressionista*"
+- Creano una mostra a 8 episodi
+	- dal 1770 al 1886
+
+## Artisti
+- [[Claude Monet]]

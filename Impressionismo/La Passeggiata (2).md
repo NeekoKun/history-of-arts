@@ -1,0 +1,1 @@
+![[La Passeggiata (2).png]]

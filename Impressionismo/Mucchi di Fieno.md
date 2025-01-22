@@ -1,0 +1,2 @@
+- Serie realizzata dopo diverso tempo dedicato all'osservazione dei covoni
+	- Dimostra il cambiamento di colore al cambio delle stagioni
