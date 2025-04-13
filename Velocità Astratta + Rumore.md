@@ -1,0 +1,2 @@
+- Rappresenta le luci di un veicolo riflesse nelle vetrine
+- Dipinge la cornice

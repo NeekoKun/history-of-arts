@@ -1,4 +1,4 @@
 ## Opere
 - [[Gli Spaccapietre]]
 - [[Funerale Ornans]]
-- [[L'Atellier del Pittore]]
+- [[L'Atelier del Pittore]]

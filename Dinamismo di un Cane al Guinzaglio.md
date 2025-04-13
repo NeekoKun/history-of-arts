@@ -1,0 +1,1 @@
+- Emula la cronofotografia

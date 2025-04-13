@@ -1,0 +1,7 @@
+- [[Pablo Picasso]]
+- Opera estremamente sintetica per l'epoca
+- Post-Ricerca
+- Tutto dipinto
+- Del tutto bidimensionale
+- Colore funzionale alla lettura
+	- Per amplificare la forma

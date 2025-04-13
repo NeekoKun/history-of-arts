@@ -1,0 +1,10 @@
+- [[Pablo Picasso]]
+- Oggetti distinti e riconoscibili
+- La sedia è una doppia falsità
+	- La sedia non c'è, quindi è falsa
+	- La paglia è una tela cerata (non vera paglia)
+		- Però sulla tela cerata è stampata della vera paglia
+- Gli Oggetti sono falsità
+	- Rappresentazione falsa ma di un oggetto vero
+- La Cornice è una verità
+	- Cornice di vera corda di canapa

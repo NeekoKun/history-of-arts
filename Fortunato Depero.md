@@ -1,0 +1,3 @@
+- Nasce a Fondo, Trentino, nel 1892
+- Conosce [[Giacomo Balla]] a Roma, nel 1914
+- 

@@ -1,0 +1,4 @@
+- Rappresenta il cantiere come sinonimo di progresso
+- Il Vortice rappresenta il progresso
+	- Travolgente
+- Compenetrazione dello spazio e della figura

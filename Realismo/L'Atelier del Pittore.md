@@ -1,0 +1,1 @@
+![[L'Atelier del Pittore.png]]
