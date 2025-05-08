@@ -1,0 +1,11 @@
+- L'Astrattismo è un movimento che si occupa di ==Presentare== invece di Rappresentare
+	- Trasmette e comunica senza collegarsi al concreto
+- Si discerne dai [[Fauves]] e dagli [[Impressionismo|Impressionisti]]
+	- Non rappresenta ne il bello ne il brutto del vivere
+	- Si concentra sullo ==Spiritualismo==
+- Si divide in 2 branche
+	- [[Astrattismo Lirico]]
+	- [[Astrattismo Geometrico]]
+## Autori
+- [[Wassily Kandinsky]]
+- [[Pier Mondrian]]

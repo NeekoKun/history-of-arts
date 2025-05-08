@@ -1,0 +1,1 @@
+![[Macchia_Nera_I.jpg]]

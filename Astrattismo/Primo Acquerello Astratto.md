@@ -1,0 +1,1 @@
+![[Primo_Acquerello_Astratto.jpg]]

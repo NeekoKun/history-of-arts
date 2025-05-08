@@ -1,0 +1,1 @@
+- Opera ottenuta da un'impressione dell'esterno

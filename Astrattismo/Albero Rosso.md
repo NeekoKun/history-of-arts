@@ -1,0 +1,1 @@
+![[Albero_rosso.jpg]]

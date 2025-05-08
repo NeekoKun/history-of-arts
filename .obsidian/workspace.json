@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Salvador Dalì"
             }
+          },
+          {
+            "id": "ec239851b9384423",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Astrattismo/Tempesta.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Tempesta"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +178,30 @@
   },
   "active": "f9678a7bab878dcd",
   "lastOpenFiles": [
-    "Surrealismo/Max Ernst.md",
+    "Astrattismo/Accento in Rosa.md",
+    "Astrattismo/Accento_In_Rosa.jpg",
+    "Astrattismo/Wassily Kandinsky.md",
+    "Astrattismo/Macchia Nera I.md",
+    "Astrattismo/Macchia_Nera_I.jpg",
+    "Astrattismo/Tempesta.md",
+    "Astrattismo/Tempesta.jpg",
+    "Astrattismo/Primo Acquerello Astratto.md",
+    "Astrattismo/Primo_Acquerello_Astratto.jpg",
+    "Astrattismo/Pier Mondrian.md",
+    "Astrattismo/Albero Grigio.md",
+    "Astrattismo/Albero_rosso.jpg",
+    "Astrattismo/Albero_Grigio.jpg",
+    "Astrattismo/Albero Rosso.md",
+    "Astrattismo/Il Mulino di Winkel.md",
+    "Astrattismo/Composizione.md",
+    "Astrattismo/Mulino_di_Winkel.jpg",
+    "Astrattismo/Astrattismo.md",
+    "Impressionismo/Impressionismo.md",
+    "Astrattismo/Improvvisazione.md",
+    "Astrattismo/Impressione.md",
     "Surrealismo/Salvador Dalì.md",
+    "Astrattismo",
+    "Surrealismo/Max Ernst.md",
     "Surrealismo/Costruzione Molle con Fave Bollite.md",
     "Surrealismo/La Persistenza della Memoria.md",
     "Surrealismo/Surrealismo.md",
@@ -178,39 +213,16 @@
     "Fauves",
     "Futurismo/Fortunato Depero.md",
     "Futurismo/Divisionismo.md",
-    "Futurismo/Umberto Boccioni.md",
-    "Futurismo/Futurismo.md",
-    "Futurismo/Velocità Astratta + Rumore.md",
-    "Futurismo/Giovanni Balla.md",
-    "Futurismo/Stato d'Animo Partire e Rimanere.md",
-    "Futurismo/La Città che Sale.md",
-    "Cubismo/Natura Morta con Sedia Impagliata.md",
     "Futurismo",
-    "Cubismo/Cubismo Sintetico.md",
-    "Cubismo/I Tre Musici.md",
-    "Cubismo/Cubismo Analitico.md",
-    "Cubismo/Protocubismo.md",
-    "Cubismo/Pablo Picasso.md",
-    "Cubismo/Guernica.md",
-    "Barocco/Sanguigna.md",
-    "Barocco/Borromini/Borromini - Vita.md",
     "Cubismo",
     "Realismo/L'Atelier del Pittore.png",
     "Impressionismo/La Passeggiata (2).png",
     "Impressionismo/Il Bar di Folies-Bergère.png",
-    "Impressionismo/Impressione di un'Alba.png",
-    "Impressionismo/La Colazione sull'Erba.png",
-    "Impressionismo/Tuileries.png",
-    "Realismo/Funerale Ornans.png",
-    "Realismo/Gli Spaccapietre.png",
-    "Realismo/La Visita alla Balia.png",
-    "Realismo/Sala delle Agitate.png",
     "Impressionismo",
     "Macchiaioli",
     "Realismo",
     "Romanticismo",
     "Neoclassicismo/la_grande_odalisca.0.jpg.aria2",
-    "Neoclassicismo/bonaparte_valica_le_alpi.0.jpg.aria2",
     "Untitled.canvas"
   ]
 }

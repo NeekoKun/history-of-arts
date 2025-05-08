@@ -1,0 +1,2 @@
+- Un'opera di natura completamente interiore
+	- Basata su emozioni o sentimenti dell'autore
