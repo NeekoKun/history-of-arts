@@ -25,12 +25,14 @@
             "id": "ec239851b9384423",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Astrattismo/Tempesta.jpg"
+                "file": "Surrealismo/Surrealismo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Tempesta"
+              "icon": "lucide-file",
+              "title": "Surrealismo"
             }
           }
         ],
@@ -176,15 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9678a7bab878dcd",
+  "active": "ec239851b9384423",
   "lastOpenFiles": [
+    "Surrealismo/Henri Magritte.md",
+    "Surrealismo/Surrealismo.md",
+    "Surrealismo/Max Ernst.md",
+    "Surrealismo/Salvador Dalì.md",
+    "Surrealismo/Apparizione di Volto e Fruttiera.md",
+    "Surrealismo/Apparizione_di_Volto.jpg",
+    "Surrealismo/Costruzione Molle con Fave Bollite.md",
+    "Surrealismo/Costruzione_Molle_con_Fave_Bollite.jpg",
+    "Surrealismo/La Persistenza della Memoria.md",
+    "Surrealismo/La_Persistenza_Della_Memoria.jpg",
+    "Astrattismo/Tempesta.jpg",
     "Astrattismo/Accento in Rosa.md",
     "Astrattismo/Accento_In_Rosa.jpg",
     "Astrattismo/Wassily Kandinsky.md",
     "Astrattismo/Macchia Nera I.md",
     "Astrattismo/Macchia_Nera_I.jpg",
     "Astrattismo/Tempesta.md",
-    "Astrattismo/Tempesta.jpg",
     "Astrattismo/Primo Acquerello Astratto.md",
     "Astrattismo/Primo_Acquerello_Astratto.jpg",
     "Astrattismo/Pier Mondrian.md",
@@ -199,25 +211,15 @@
     "Impressionismo/Impressionismo.md",
     "Astrattismo/Improvvisazione.md",
     "Astrattismo/Impressione.md",
-    "Surrealismo/Salvador Dalì.md",
     "Astrattismo",
-    "Surrealismo/Max Ernst.md",
-    "Surrealismo/Costruzione Molle con Fave Bollite.md",
-    "Surrealismo/La Persistenza della Memoria.md",
-    "Surrealismo/Surrealismo.md",
     "Futurismo/Dinamismo di un Cane al Guinzaglio.md",
     "Fauves/Henri Matisse.md",
-    "Surrealismo/Henri Magritte.md",
     "Fauves/Fauves.md",
     "Surrealismo",
     "Fauves",
     "Futurismo/Fortunato Depero.md",
-    "Futurismo/Divisionismo.md",
     "Futurismo",
     "Cubismo",
-    "Realismo/L'Atelier del Pittore.png",
-    "Impressionismo/La Passeggiata (2).png",
-    "Impressionismo/Il Bar di Folies-Bergère.png",
     "Impressionismo",
     "Macchiaioli",
     "Realismo",

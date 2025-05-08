@@ -1,0 +1,1 @@
+![[Apparizione_di_Volto.jpg]]

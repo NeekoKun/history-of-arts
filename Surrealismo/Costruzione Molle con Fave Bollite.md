@@ -1,1 +1,1 @@
-- Parla della Guerra Civile Spagnola
+- Parla della Guerra Civile Spagnola![[Costruzione_Molle_con_Fave_Bollite.jpg]]

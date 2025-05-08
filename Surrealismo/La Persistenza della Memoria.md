@@ -1,1 +1,1 @@
-- Parla della visione del tempo secondo Bergson
+- Parla della visione del tempo secondo Bergson![[La_Persistenza_Della_Memoria.jpg]]
