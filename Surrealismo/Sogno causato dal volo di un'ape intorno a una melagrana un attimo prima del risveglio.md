@@ -1,0 +1,1 @@
+![[Dali_Sogno_causato_dal_volo_di_un_ape.jpg]]

@@ -9,6 +9,7 @@
 - Esteriorizzare le proprie paranoie tramite il dipinto ne consente la risoluzione
 
 ## Opere
+- [[Sogno causato dal volo di un'ape intorno a una melagrana un attimo prima del risveglio]]
 - [[La Persistenza della Memoria]]
 - [[Costruzione Molle con Fave Bollite]]
 - [[Apparizione di Volto e Fruttiera]]
