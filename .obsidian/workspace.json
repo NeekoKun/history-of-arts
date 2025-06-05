@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espressionismo/Die Brücke.md",
+                "file": "Astrattismo/Accento in Rosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Brücke"
+              "title": "Accento in Rosa"
             }
           }
         ]
@@ -33,35 +33,43 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Espressionismo/Die Brücke.md",
+                "file": "Astrattismo/Accento in Rosa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": false,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Autore  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6443744
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1.37604166666667,
                   "lineSizeMultiplier": 1.75885416666667,
                   "collapse-forces": false,
-                  "centerStrength": 0.401041666666667,
+                  "centerStrength": 0.182291666666667,
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.19753086419753077,
+                  "scale": 0.42105482394501415,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Die Brücke"
+              "title": "Graph of Accento in Rosa"
             }
           }
         ]
@@ -206,44 +214,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ccf8d09fe93352",
+  "active": "601c772ffbe48103",
   "lastOpenFiles": [
-    "Espressionismo/Espressionismo.md",
-    "Espressionismo/Egon Schiele.md",
-    "Espressionismo/Due Donne per Strada.md",
-    "Espressionismo/Die Brücke.md",
+    "Astrattismo/Pier Mondrian.md",
+    "Da Studiare x Lunedì.md",
+    "Astrattismo/Wassily Kandinsky.md",
+    "Surrealismo/Henri Magritte.md",
+    "Surrealismo/Salvador Dalì.md",
+    "Surrealismo/Max Ernst.md",
+    "Fauves/Henri Matisse.md",
     "Espressionismo/Oskar Kokoschka.md",
-    "Espressionismo/Due_Donne_Per_Strada.jpg",
+    "Espressionismo/Egon Schiele.md",
     "Espressionismo/Ernst Ludwig Kirchner.md",
+    "Astrattismo/Accento in Rosa.md",
+    "Fauves/Fauves.md",
+    "Espressionismo/Die Brücke.md",
+    "Astrattismo/Primo Acquerello Astratto.md",
+    "Astrattismo/Astrattismo.md",
+    "Cubismo/Cubismo.md",
+    "Surrealismo/Surrealismo.md",
+    "Espressionismo/Espressionismo.md",
+    "Espressionismo/Cinque_Donne_per_Strada.jpg",
+    "Espressionismo/L'Abbraccio.md",
+    "Barocco/Bernini/Bernini - Vita.md",
+    "Impressionismo/La Passeggiata (1).md",
+    "Espressionismo/Marcella.md",
+    "Espressionismo/Cinque Donne per Strada.md",
+    "Espressionismo/Due Donne per Strada.md",
+    "Espressionismo/Due_Donne_Per_Strada.jpg",
     "Espressionismo/La Sposa del Vento.md",
     "Espressionismo/La_Sposa_del_Vento.webp",
     "Surrealismo/Dali_Sogno_causato_dal_volo_di_un_ape.jpg",
-    "Surrealismo/Salvador Dalì.md",
     "Surrealismo/Costruzione Molle con Fave Bollite.md",
-    "Surrealismo/Sogno causato dal volo di un'ape intorno a una melagrana un attimo prima del risveglio.md",
-    "Surrealismo/Surrealismo.md",
-    "Espressionismo/Marcella.md",
-    "Surrealismo/La Stanza Rossa.md",
     "Surrealismo/La_Stanza_Rossa.jpg",
-    "Fauves/Henri Matisse.md",
-    "Espressionismo/L'Abbraccio.md",
     "Espressionismo/l'abbraccio.jpg",
     "Espressionismo/Marcella.jpg",
-    "Espressionismo/Cinque Donne per Strada.md",
-    "Espressionismo/Cinque_Donne_per_Strada.jpg",
     "Espressionismo",
-    "Surrealismo/Henri Magritte.md",
-    "Surrealismo/Max Ernst.md",
-    "Surrealismo/Apparizione di Volto e Fruttiera.md",
     "Surrealismo/Apparizione_di_Volto.jpg",
     "Surrealismo/Costruzione_Molle_con_Fave_Bollite.jpg",
-    "Surrealismo/La Persistenza della Memoria.md",
     "Surrealismo/La_Persistenza_Della_Memoria.jpg",
-    "Astrattismo/Accento in Rosa.md",
-    "Astrattismo/Wassily Kandinsky.md",
-    "Astrattismo/Macchia Nera I.md",
-    "Astrattismo/Tempesta.md",
-    "Astrattismo/Primo Acquerello Astratto.md",
     "Astrattismo",
     "Surrealismo",
     "Fauves",

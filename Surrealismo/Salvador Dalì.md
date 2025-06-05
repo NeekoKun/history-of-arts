@@ -1,3 +1,8 @@
+---
+tags:
+  - Autore
+---
+
 - Autore [[Surrealismo|Surrealista]]
 - Sperimenta con l'Associazione Libera delle Immagini
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Autore
+---
+
 - Allievo di Klimt
 	- Perde tutto il decorativismo
 ## Opere

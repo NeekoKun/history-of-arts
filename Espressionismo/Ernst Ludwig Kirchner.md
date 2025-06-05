@@ -1,3 +1,8 @@
+---
+tags:
+  - Autore
+---
+
 - Dipinge spesso ==Marcella==, una giovane prostituta
 	- Utilizza appositamente colori accesi e Fastidiosi
 

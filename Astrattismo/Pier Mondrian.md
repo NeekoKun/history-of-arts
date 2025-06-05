@@ -1,3 +1,8 @@
+---
+tags:
+  - Autore
+---
+
 ## Storia
 - Attraversa 3 Fasi
 	- [[Impressionismo]]

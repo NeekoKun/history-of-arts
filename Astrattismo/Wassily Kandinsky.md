@@ -1,6 +1,11 @@
+---
+tags:
+  - Autore
+---
+
 ## Storia
 - Fonda il [[Der Blaue Reiter]]
-	- Fonda l'[[Astrattismo]]
+	- Fonda l'[[Astrattismo Lirico]]
 - Insegna alla [[Bauhaus]]
 ## Studio dei Colori
 - Possono Essere
